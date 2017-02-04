@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configurations>
 <configuration id="Windows7">
-	<dataPath>G:\\documents\\newsletters_and_blogs\\BulkPhotoGenerator1\\src\\com\\tjgwebservices\\data\\</dataPath>
-	<photoArchive>G:\\documents\\newsletters_and_blogs\\photos_archive\\</photoArchive>
-	<targetPath>G:\\documents\\newsletters_and_blogs\\photos_archive\\target\\</targetPath>
-	<imageDirectory>>G:\\documents\\newsletters_and_blogs\\photos_archive\\images\\</imageDirectory>
+	<dataPath>G:\\data\\</dataPath>
+	<photoArchive>G:\\photos_archive\\</photoArchive>
+	<targetPath>G:\\photos_archive\\target\\</targetPath>
+	<imageDirectory>>G:\\photos_archive\\images\\</imageDirectory>
 </configuration>
 <configuration id="LinuxUbuntu">
 	<dataPath>./src/com/tjgwebservices/data/</dataPath>
-	<photoArchive>/home/tamarojgreen/Documents/photos_archive/</photoArchive>
-	<targetPath>/home/tamarojgreen/Documents/photos_archive/target/</targetPath>
-	<imageDirectory>/home/tamarojgreen/Documents/photos_archive/images/</imageDirectory>
+	<photoArchive>photos_archive/</photoArchive>
+	<targetPath>photos_archive/target/</targetPath>
+	<imageDirectory>photos_archive/images/</imageDirectory>
 </configuration>
 </configurations>
