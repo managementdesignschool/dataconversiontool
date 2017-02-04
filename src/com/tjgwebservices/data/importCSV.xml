@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<images>
+<image>
+    <id>1</id>
+    <imagePath>photo1.jpg</imagePath>
+    <logoID>1</logoID>
+    <logoPosition>BottomLeft</logoPosition>
+    <textID>1</textID>
+    <textPosition>TopLeft</textPosition>
+    <fontID>1</fontID>
+</image>
+<image>
+    <id>2</id>
+    <imagePath>photo1.jpg</imagePath>
+    <logoID>1</logoID>
+    <logoPosition>BottomLeft</logoPosition>
+    <textID>1</textID>
+    <textPosition>TopLeft</textPosition>
+    <fontID>1</fontID>
+</image>
+<image>
+    <id>3</id>
+    <imagePath>photo1.jpg</imagePath>
+    <logoID>1</logoID>
+    <logoPosition>BottomLeft</logoPosition>
+    <textID>1</textID>
+    <textPosition>TopLeft</textPosition>
+    <fontID>1</fontID>
+</image>
+</images>
